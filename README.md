@@ -1,6 +1,6 @@
 # ATM-Project
 
-In the ATM machine, try to enter a valid card number and get to know whether it's a valid American express,Mastercard or Visa card.
+In the ATM machine, enter a valid card number and get to know whether it's a valid American express,Mastercard or Visa card.
 For eg,4003600000000014 -> Visa card
 
 Pin:2022
